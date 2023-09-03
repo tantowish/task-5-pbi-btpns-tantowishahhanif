@@ -9,8 +9,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
 	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/app"
-	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/auth"
-	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/formaterror"
+	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/app/auth"
+	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/helpers/formaterror"
 	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/models"
 )
 

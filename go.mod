@@ -1,4 +1,4 @@
-module github.com/notalent2code/task-5-vix-btpns-rihlan
+module github.com/tantowish/task-5-vix-btpns-tantowishahhanif
 
 go 1.20
 
@@ -6,6 +6,7 @@ require (
 	github.com/badoux/checkmail v1.2.1
 	github.com/google/uuid v1.3.0
 	github.com/jinzhu/gorm v1.9.16
+	github.com/notalent2code/task-5-vix-btpns-rihlan v0.0.0-20230207121534-48427bc69c12
 	golang.org/x/crypto v0.5.0
 )
 

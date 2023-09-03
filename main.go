@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/notalent2code/task-5-vix-btpns-rihlan/database"
-	"github.com/notalent2code/task-5-vix-btpns-rihlan/models"
-	"github.com/notalent2code/task-5-vix-btpns-rihlan/router"
+	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/database"
+	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/models"
+	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/router"
 )
 
 func main() {
