@@ -8,7 +8,7 @@ import (
 
 	"github.com/badoux/checkmail"
 	"github.com/google/uuid"
-	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/helpers/hash"
+	"github.com/tantowish/task-5-pbi-btpns-tantowishahhanif/helpers/hash"
 )
 
 type User struct {

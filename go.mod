@@ -1,4 +1,4 @@
-module github.com/tantowish/task-5-vix-btpns-tantowishahhanif
+module github.com/tantowish/task-5-pbi-btpns-tantowishahhanif
 
 go 1.20
 

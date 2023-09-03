@@ -8,7 +8,7 @@ import (
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/postgres"
 	"github.com/joho/godotenv"
-	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/models"
+	"github.com/tantowish/task-5-pbi-btpns-tantowishahhanif/models"
 )
 
 func SetupDB() *gorm.DB {

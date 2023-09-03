@@ -4,8 +4,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
 
-	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/controllers"
-	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/middlewares"
+	"github.com/tantowish/task-5-pbi-btpns-tantowishahhanif/controllers"
+	"github.com/tantowish/task-5-pbi-btpns-tantowishahhanif/middlewares"
 )
 
 func SetupRoutes(db *gorm.DB) *gin.Engine {

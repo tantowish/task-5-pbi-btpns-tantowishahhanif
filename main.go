@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/database"
-	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/models"
-	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/router"
+	"github.com/tantowish/task-5-pbi-btpns-tantowishahhanif/database"
+	"github.com/tantowish/task-5-pbi-btpns-tantowishahhanif/models"
+	"github.com/tantowish/task-5-pbi-btpns-tantowishahhanif/router"
 )
 
 func main() {

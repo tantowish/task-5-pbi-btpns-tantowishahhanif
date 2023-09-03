@@ -8,10 +8,10 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
-	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/app"
-	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/app/auth"
-	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/helpers/formaterror"
-	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/models"
+	"github.com/tantowish/task-5-pbi-btpns-tantowishahhanif/app"
+	"github.com/tantowish/task-5-pbi-btpns-tantowishahhanif/app/auth"
+	"github.com/tantowish/task-5-pbi-btpns-tantowishahhanif/helpers/formaterror"
+	"github.com/tantowish/task-5-pbi-btpns-tantowishahhanif/models"
 )
 
 func GetPhoto(c *gin.Context) {

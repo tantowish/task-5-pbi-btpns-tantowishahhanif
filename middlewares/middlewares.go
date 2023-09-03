@@ -4,7 +4,7 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
-	"github.com/tantowish/task-5-vix-btpns-tantowishahhanif/app/auth"
+	"github.com/tantowish/task-5-pbi-btpns-tantowishahhanif/app/auth"
 )
 
 func Auth() gin.HandlerFunc {
